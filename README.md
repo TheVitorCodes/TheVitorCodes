@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Vitor Paixão 👋🏼
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorcodes_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorcode/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:paixaoadm@outlook.com)
-
 ![TheVitorCodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVitorCodes&show_icons=true&theme=aura)
 
 ### Tecnologias que utilizo
